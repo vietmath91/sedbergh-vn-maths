@@ -1,0 +1,6 @@
+title: Sedbergh VN Maths
+description: Cambridge iGCSE and A Level Maths Practice
+theme: minima
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
