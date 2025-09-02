@@ -11,27 +11,27 @@ intro:
   - excerpt: "Cambridge IGCSE, AS & A2 practice with worked answers · UKMT training · Competitions · Reflections."
 feature_row:
   - title: "IGCSE"
-    url: "{{ site.baseurl }}/igcse/"
+    url: /igcse/
     btn_label: "Open"
     btn_class: "btn--primary"
   - title: "AS"
-    url: "{{ site.baseurl }}/as/"
+    url: /as/
     btn_label: "Open"
     btn_class: "btn--primary"
   - title: "A2"
-    url: "{{ site.baseurl }}/a2/"
+    url: /a2/
     btn_label: "Open"
     btn_class: "btn--primary"
   - title: "UKMT"
-    url: "{{ site.baseurl }}/ukmt/"
+    url: /ukmt/
     btn_label: "Open"
     btn_class: "btn--primary"
   - title: "Competitions"
-    url: "{{ site.baseurl }}/competitions/"
+    url: /competitions/
     btn_label: "Open"
     btn_class: "btn--primary"
   - title: "Reflections"
-    url: "{{ site.baseurl }}/reflections/"
+    url: /reflections/
     btn_label: "Open"
     btn_class: "btn--primary"
 ---
