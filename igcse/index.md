@@ -8,7 +8,7 @@ permalink: /igcse/
 
 Choose a topic:
 
-- [Number](/igcse/number/)
-- [Algebra](/igcse/algebra/)
-- [Geometry](/igcse/geometry/)
-- [Statistics & Probability](/igcse/stats/)
+-[Number]({{ '/igcse/number/' | relative_url }})
+-[Algebra]({{ '/igcse/algebra/' | relative_url }})
+-[Geometry]({{ '/igcse/geometry/' | relative_url }})
+-[Statistics & Probability]({{ '/igcse/stats/' | relative_url }})
