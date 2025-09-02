@@ -14,7 +14,10 @@ markdown: kramdown
 kramdown:
   math_engine: mathjax
 
-# Defaults so pages render nicely
+# Optional: pick a built-in skin (there IS a "sunrise" skin 🌅)
+minimal_mistakes_skin: "sunrise"
+
+# Default layout so pages render nicely
 defaults:
   - scope: { path: "" }
     values: { layout: single }
