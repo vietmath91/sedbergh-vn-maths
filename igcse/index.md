@@ -1,6 +1,6 @@
 ---
-layout: default
 title: IGCSE
+layout: single
 ---
 
 # Cambridge IGCSE
