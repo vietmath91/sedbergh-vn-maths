@@ -1,19 +1,73 @@
 ---
-title: Indices Basics
+title: IGCSE Number — Indices
+layout: single
+mathjax: true
 ---
 
-1. Simplify $2^3 \times 2^4$.
-2. Simplify $5^6 \div 5^2$.
-3. Simplify $(3^2)^4$.
-4. Write $\frac{1}{2^3}$ as a power of 2.
-5. Simplify $7^3 \times 7^{-1}$.
+# IGCSE Number — Indices
 
-<details><summary><strong>Answers</strong></summary>
+> Time: 20 minutes • Marks: 25
 
-1. $2^7 = 128$  
-2. $5^4 = 625$  
-3. $3^8 = 6561$  
-4. $2^{-3}$  
-5. $7^2 = 49$
+## Questions
+
+$$
+\textbf{Q1}\quad \text{Simplify } 2^3\cdot 2^4.
+$$
+
+$$
+\textbf{Q2}\quad \text{Simplify } 5^6\div 5^2.
+$$
+
+$$
+\textbf{Q3}\quad \text{Simplify } (3^2)^4.
+$$
+
+$$
+\textbf{Q4}\quad \text{Write } \frac{1}{2^3} \text{ as a power of } 2.
+$$
+
+$$
+\textbf{Q5}\quad \text{Simplify } 7^3 \cdot 7^{-1}.
+$$
+
+
+## Worked Solutions
+
+<details><summary><strong>Show solutions</strong></summary>
+
+$$
+\begin{aligned}
+\textbf{Q1:}\quad
+2^3\cdot 2^4 &= 2^{3+4} = 2^7 = 128.
+\end{aligned}
+$$
+
+$$
+\begin{aligned}
+\textbf{Q2:}\quad
+5^6\div 5^2 &= 5^{6-2} = 5^4 = 625.
+\end{aligned}
+$$
+
+$$
+\begin{aligned}
+\textbf{Q3:}\quad
+(3^2)^4 &= 3^{2\cdot 4} = 3^8 = 6561.
+\end{aligned}
+$$
+
+$$
+\begin{aligned}
+\textbf{Q4:}\quad
+\frac{1}{2^3} &= 2^{-3}.
+\end{aligned}
+$$
+
+$$
+\begin{aligned}
+\textbf{Q5:}\quad
+7^3\cdot 7^{-1} &= 7^{3-1} = 7^2 = 49.
+\end{aligned}
+$$
 
 </details>
