@@ -18,3 +18,13 @@ kramdown:
 defaults:
   - scope: { path: "" }
     values: { layout: single }
+
+collections:
+  worksheets:
+    output: true
+    permalink: /worksheets/:name/
+
+defaults:
+  - scope: { path: "", type: worksheets }
+    values:
+      layout: single
