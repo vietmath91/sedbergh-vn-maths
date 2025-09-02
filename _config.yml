@@ -1,0 +1,38 @@
+title: Sedbergh VN Maths
+description: Cambridge IGCSE, AS and A2 practice with answers
+theme: minima
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
+
+collections:
+  worksheets:
+    output: true
+  reflections:
+    output: true
+  ukmt:
+    output: true
+  competitions:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "worksheets"
+    values:
+      layout: page
+  - scope:
+      path: ""
+      type: "reflections"
+    values:
+      layout: post
+  - scope:
+      path: ""
+      type: "ukmt"
+    values:
+      layout: page
+  - scope:
+      path: ""
+      type: "competitions"
+    values:
+      layout: page
