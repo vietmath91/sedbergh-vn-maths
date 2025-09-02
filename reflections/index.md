@@ -1,8 +1,8 @@
 ---
-layout: page
 title: Reflections
+layout: single
+permalink: /reflections/
 ---
 
 # Reflections on Teaching
-
-Posts on planning, assessment, leadership, and student voice will appear here.
+Posts coming soon.
