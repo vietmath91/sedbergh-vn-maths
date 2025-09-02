@@ -1,0 +1,15 @@
+main:
+  - title: "IGCSE"
+    url: /igcse/
+  - title: "AS"
+    url: /as/
+  - title: "A2"
+    url: /a2/
+  - title: "UKMT"
+    url: /ukmt/
+  - title: "Competitions"
+    url: /competitions/
+  - title: "Reflections"
+    url: /reflections/
+  - title: "About"
+    url: /about/
