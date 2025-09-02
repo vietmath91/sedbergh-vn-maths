@@ -1,6 +1,0 @@
-title: Sedbergh VN Maths
-description: GCSE and A Level practice with answers
-theme: minima
-markdown: kramdown
-kramdown:
-  math_engine: mathjax
