@@ -1,11 +1,13 @@
 ---
-layout: page
-title: Cambridge IGCSE
+layout: default
+title: IGCSE
 ---
 
 # Cambridge IGCSE
 
-- [Number](/igcse/number/)
-- [Algebra](/igcse/algebra/)
-- [Geometry](/igcse/geometry/)
-- [Statistics and Probability](/igcse/stats-prob/)
+Choose a topic to practise:
+
+- [Number]({{ site.baseurl }}/igcse/number/)
+- [Algebra]({{ site.baseurl }}/igcse/algebra/)
+- [Geometry]({{ site.baseurl }}/igcse/geometry/)
+- [Statistics & Probability]({{ site.baseurl }}/igcse/stats/)
