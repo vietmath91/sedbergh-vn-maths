@@ -3,11 +3,10 @@
     tex: {
       inlineMath: [['$', '$'], ['\\(', '\\)']],
       displayMath: [['$$','$$']],
-      tags: 'none',
-      packages: {'[+]': ['noerrors']},
-      macros: {
-        frac: "\\dfrac"   // make \frac always mean \dfrac
-      }
+      macros: { frac: "\\dfrac" }
+    },
+    chtml: {
+      displayAlign: "left"  // align all display equations to the left
     }
   };
 </script>
