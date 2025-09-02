@@ -1,11 +1,8 @@
 ---
-layout: page
-title: Maths Competitions
+title: Competitions
+layout: single
+permalink: /competitions/
 ---
 
 # Maths Competitions
-
-Contest information, schedules, and preparation notes.
-
-- [Contest calendar and tips](/competitions/calendar-tips/)
-- [Senior challenges and Olympiad starters](/competitions/senior-challenges/)
+Content coming soon.
