@@ -8,5 +8,5 @@ permalink: /igcse/number/
 
 Pick a worksheet to start:
 
-- [Indices Basics]({{ '/worksheets/igcse-indices-basics/' | relative_url }})
+- [Indices Basics]({{ '/worksheets/igcse-indices/' | relative_url }})
 - [Standard Form Practice]({{ '/worksheets/igcse-standard-form/' | relative_url }})
