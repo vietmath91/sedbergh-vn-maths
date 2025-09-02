@@ -1,15 +1,16 @@
 title: Sedbergh VN Maths
-description: Cambridge IGCSE, AS & A2 | UKMT | Competitions | Reflections
+description: Cambridge IGCSE, AS and A2 | UKMT | Competitions | Reflections
 
-# Theme
+# Use a supported GitHub Pages theme
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-remote-theme
 
-# IMPORTANT for project sites:
-url: "https://vietmath91.github.io/sedbergh-vn-maths/"
+# REQUIRED for project sites (repo is NOT your username.github.io)
+url: "https://vietmath91.github.io"
 baseurl: "/sedbergh-vn-maths"
 
 markdown: kramdown
 kramdown:
   math_engine: mathjax
+permalink: pretty
