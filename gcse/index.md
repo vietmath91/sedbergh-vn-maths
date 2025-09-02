@@ -1,8 +1,8 @@
 ---
 layout: page
-title: GCSE
+title: iGCSE
 ---
 
 # GCSE Worksheets
 
-- [Indices basics](/worksheets/gcse-indices/)
+- [Indices basics](/worksheets/igcse-indices/)
