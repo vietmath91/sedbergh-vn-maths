@@ -1,15 +1,15 @@
 main:
   - title: "IGCSE"
-    url: "{{ site.baseurl }}/igcse/"
+    url: /igcse/
   - title: "AS"
-    url: "{{ site.baseurl }}/as/"
+    url: /as/
   - title: "A2"
-    url: "{{ site.baseurl }}/a2/"
+    url: /a2/
   - title: "UKMT"
-    url: "{{ site.baseurl }}/ukmt/"
+    url: /ukmt/
   - title: "Competitions"
-    url: "{{ site.baseurl }}/competitions/"
+    url: /competitions/
   - title: "Reflections"
-    url: "{{ site.baseurl }}/reflections/"
+    url: /reflections/
   - title: "About"
-    url: "{{ site.baseurl }}/about/" 
+    url: /about/
