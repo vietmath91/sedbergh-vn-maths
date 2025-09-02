@@ -2,11 +2,11 @@ title: Sedbergh VN Maths
 description: Cambridge IGCSE, AS & A2 | UKMT | Competitions | Reflections
 
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "sunrise"   # << the warm skin you want
 plugins:
   - jekyll-include-cache
   - jekyll-remote-theme
 
-# REQUIRED for project sites
 url: "https://vietmath91.github.io"
 baseurl: "/sedbergh-vn-maths"
 
@@ -14,10 +14,7 @@ markdown: kramdown
 kramdown:
   math_engine: mathjax
 
-# Optional: pick a built-in skin (there IS a "sunrise" skin 🌅)
-minimal_mistakes_skin: "sunrise"
-
-# Default layout so pages render nicely
+# sensible default so pages render nicely
 defaults:
   - scope: { path: "" }
     values: { layout: single }
