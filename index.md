@@ -1,12 +1,3 @@
----
-title: Sedbergh VN Maths
-layout: splash
-header:
-  overlay_color: "#0b3d91"
-  overlay_filter: 0.25
-  # optional image (add later): overlay_image: "{{ site.baseurl }}/assets/images/hero.jpg"
-intro:
-  - excerpt: "Cambridge IGCSE, AS & A2 practice with worked answers · UKMT training · Competitions · Reflections."
 feature_row:
   - title: "IGCSE"
     url: "{{ site.baseurl }}/igcse/"
@@ -26,6 +17,3 @@ feature_row:
   - title: "Reflections"
     url: "{{ site.baseurl }}/reflections/"
     btn_label: "Open"
----
-
-{% include feature_row %}
