@@ -4,11 +4,8 @@ layout: single
 mathjax: true
 ---
 
-# IGCSE Number — Indices
 
 > Time: 20 minutes • Marks: 25
-
-## Questions
 
 ## Questions
 
