@@ -5,4 +5,10 @@ permalink: /igcse/
 ---
 
 # Cambridge IGCSE
-Content coming soon.
+
+Choose a topic:
+
+- [Number](/igcse/number/)
+- [Algebra](/igcse/algebra/)
+- [Geometry](/igcse/geometry/)
+- [Statistics & Probability](/igcse/stats/)
