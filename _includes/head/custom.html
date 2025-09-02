@@ -1,4 +1,14 @@
 <script>
-  window.MathJax = { tex: { inlineMath: [['\\(','\\)'], ['$', '$']] } };
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$','$$']],
+      tags: 'none',
+      packages: {'[+]': ['noerrors']},
+      macros: {
+        frac: "\\dfrac"   // make \frac always mean \dfrac
+      }
+    }
+  };
 </script>
 <script async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
