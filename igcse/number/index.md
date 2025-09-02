@@ -1,8 +1,9 @@
 ---
 title: IGCSE Number
 layout: single
+permalink: /igcse/number/
 ---
 
 # IGCSE Number Worksheets
 
-- [Indices Basics]({{ site.baseurl }}/worksheets/igcse-indices/)
+Content coming soon.
