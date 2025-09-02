@@ -10,25 +10,18 @@ mathjax: true
 
 ## Questions
 
-$$
-\textbf{Q1}\quad \text{Simplify } 2^3\cdot 2^4.
-$$
+## Questions
 
-$$
-\textbf{Q2}\quad \text{Simplify } 5^6\div 5^2.
-$$
+$$ \textbf{Q1:}\;\; \text{Simplify } 2^3 \cdot 2^4. $$
 
-$$
-\textbf{Q3}\quad \text{Simplify } (3^2)^4.
-$$
+$$ \textbf{Q2:}\;\; \text{Simplify } 5^6 \div 5^2. $$
 
-$$
-\textbf{Q4}\quad \text{Write } \frac{1}{2^3} \text{ as a power of } 2.
-$$
+$$ \textbf{Q3:}\;\; \text{Simplify } (3^2)^4. $$
 
-$$
-\textbf{Q5}\quad \text{Simplify } 7^3 \cdot 7^{-1}.
-$$
+$$ \textbf{Q4:}\;\; \text{Write } \frac{1}{2^3} \text{ as a power of } 2. $$
+
+$$ \textbf{Q5:}\;\; \text{Simplify } 7^3 \cdot 7^{-1}. $$
+
 
 
 ## Worked Solutions
