@@ -28,3 +28,11 @@ defaults:
   - scope: { path: "", type: worksheets }
     values:
       layout: single
+
+
+defaults:
+  - scope: { path: "", type: worksheets }
+    values:
+      layout: single
+      mathjax: true   # <- ensure math is on for all worksheets
+
