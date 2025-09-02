@@ -1,38 +1,29 @@
 title: Sedbergh VN Maths
-description: Cambridge IGCSE, AS and A2 practice with answers
-theme: minima
+description: Cambridge IGCSE, AS and A2 practice, UKMT, competitions, reflections
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-include-cache
 markdown: kramdown
 kramdown:
   math_engine: mathjax
 
+# Site identity (add your images later)
+logo: /assets/images/logo.png
+favicon: /assets/images/favicon.png
+
+# Navigation uses _data/navigation.yml
 collections:
-  worksheets:
-    output: true
-  reflections:
-    output: true
-  ukmt:
-    output: true
-  competitions:
-    output: true
+  worksheets: { output: true }
+  reflections: { output: true }
+  ukmt: { output: true }
+  competitions: { output: true }
 
 defaults:
-  - scope:
-      path: ""
-      type: "worksheets"
-    values:
-      layout: page
-  - scope:
-      path: ""
-      type: "reflections"
-    values:
-      layout: post
-  - scope:
-      path: ""
-      type: "ukmt"
-    values:
-      layout: page
-  - scope:
-      path: ""
-      type: "competitions"
-    values:
-      layout: page
+  - scope: { path: "", type: "worksheets" }
+    values: { layout: single }
+  - scope: { path: "", type: "reflections" }
+    values: { layout: single, author_profile: false }
+  - scope: { path: "", type: "ukmt" }
+    values: { layout: single }
+  - scope: { path: "", type: "competitions" }
+    values: { layout: single }
