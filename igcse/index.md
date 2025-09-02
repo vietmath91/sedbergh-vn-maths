@@ -1,6 +1,7 @@
 ---
 title: IGCSE
 layout: single
+permalink: /igcse/
 ---
 
 # Cambridge IGCSE
