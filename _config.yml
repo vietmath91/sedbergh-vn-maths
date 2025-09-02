@@ -1,6 +1,8 @@
 title: Sedbergh VN Maths
-description: Cambridge IGCSE, AS and A2 practice | UKMT Training | Competitions | Reflections
-remote_theme: pages-themes/sunrise@v0.2.0
+description: Cambridge IGCSE, AS & A2 | UKMT | Competitions | Reflections
+
+# ✅ Use an official theme that exists
+remote_theme: pages-themes/cayman@v0.2.0
 
 plugins:
   - jekyll-remote-theme
