@@ -12,4 +12,4 @@ main:
   - title: "Reflections"
     url: "{{ site.baseurl }}/reflections/"
   - title: "About"
-    url: "{{ site.baseurl }}/about/"
+    url: "{{ site.baseurl }}/about/" 
